@@ -2,7 +2,7 @@
 name = "python-examples"
 version = "0.1.0"
 description = ""
-authors = ["Jesus <tjesus@lopes.com.br>"]
+authors = ["Jesus <tjesus@someemail.com.br>"]
 readme = "README.md"
 packages = [{include = "python_examples"}]
 
