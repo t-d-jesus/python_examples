@@ -1,0 +1,15 @@
+site_name: Python Example
+repo_url: https://github.com/t-d-jesus/python_examples
+repo_name: t-d-jesus/python_examples
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
